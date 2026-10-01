@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://casino-bet365.vercel.app/sitemap.xml
+Sitemap: https://casino-bet365-game.vercel.app/sitemap.xml
