@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://casino-bet365.vercel.app/sitemap.xml
